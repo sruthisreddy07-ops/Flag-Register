@@ -1,0 +1,7 @@
+Time=15000 | Result=00 | Z=1 N=0 C=0 V=0
+Time=25000 | Result=25 | Z=0 N=0 C=0 V=0
+Time=35000 | Result=80 | Z=0 N=1 C=0 V=0
+Time=45000 | Result=10 | Z=0 N=0 C=1 V=0
+Time=55000 | Result=7f | Z=0 N=0 C=0 V=1
+Time=65000 | Result=80 | Z=0 N=1 C=1 V=1
+Time=75000 | Result=00 | Z=0 N=1 C=1 V=1
